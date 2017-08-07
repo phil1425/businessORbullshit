@@ -1,0 +1,79 @@
+body{
+	background-color: #FFFFFF;
+}
+
+h1{
+	font-family: sans-serif;
+	font-size: 30px;
+}
+
+h2{
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+h3{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 10px;
+    color: #999;
+}
+
+#business{
+    width: 100%;
+	font-family: sans-serif;
+    font-size: 20px;
+    background-color: #2BDE73;
+    color: #fff;
+    border: 0px;
+    border-radius: 0px;
+    padding: 40px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+#business:hover{
+    background-color: #52E07F;
+}
+
+#business:active{
+	background-color: #26D95F;
+}
+
+#bullshit{
+    width: 100%;
+	font-family: sans-serif;
+    font-size: 20px;
+    background-color: #2BDE73;
+    color: #fff;
+    border: 0px;
+    border-radius: 0px;
+    padding: 40px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+#bullshit:hover{
+    background-color: #52E07F;
+}
+
+#bullshit:active{
+	background-color: #26D95F;
+}
+
+#next{
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: #999999;
+    color: #fff;
+    border: 0px;
+    border-radius: 0px;
+    padding: 40px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
